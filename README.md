@@ -43,8 +43,14 @@ Inventory:
 # Data Analysis
 
 ## Sales Performance
-![alt text](https://github.com/mahmoudMoAbdelmoty/Toy-Sales-Company/blob/main/Sales Performance.png?raw=true)
+![alt text](https://github.com/mahmoudMoAbdelmoty/Toy-Sales-Company/blob/main/Sales20%Performance.png?raw=true)
 
+
+## Product Performance
+![alt text](https://github.com/mahmoudMoAbdelmoty/Toy-Sales-Company/blob/main/Store20%Performance.png?raw=true)
+
+## Store Performance
+![alt text](https://github.com/mahmoudMoAbdelmoty/Toy-Sales-Company/blob/main/store.png?raw=true)
 
 
 
