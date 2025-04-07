@@ -38,7 +38,12 @@ Inventory:
 2. Remove Duplicate Rows from all the files.
 
 3. We connect the different files using respective Primary and Foreign Keys:
+![alt text](https://github.com/mahmoudMoAbdelmoty/Toy-Sales-Company/blob/main/Datamodel.png?raw=true)
 
+# Data Analysis
+
+## Sales Performance
+![alt text](https://github.com/mahmoudMoAbdelmoty/Toy-Sales-Company/blob/main/Sales Performance.png?raw=true)
 
 
 
