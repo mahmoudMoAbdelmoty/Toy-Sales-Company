@@ -2,6 +2,9 @@
 Developing an interactive dashboard for a toy company, "Maven Toys". Managers can use this dashboard to get comprehensive report about the sales of toys. The aim of this data analysis project is to create an interactive dashboard using Power BI for analyzing sales of a toy company. The project involves taking raw sales and inventory data, cleaning and transforming it into a suitable format, and then visualizing the insights through an interactive and user-friendly dashboard.
 
 # Data Collection and Description:
+
+The data is collected from [ Maven Data Playground.](https://www.mavenanalytics.io/data-playground)
+
 We are given four files in CSV format described below:
 
 Products:
